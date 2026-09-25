@@ -10,7 +10,7 @@ Currently exploring the intersection of **Full Stack Development, AWS/DevOps, an
   <a href="https://linkedin.com/in/mallikarjuna-rao-chinnam-736411338">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chinnammallikarjunarao.99@gmail.com">
+  <a href="mailto:mallikarjunarao.chinnam.10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -353,7 +353,6 @@ Production-Oriented Engineering
   <img src="https://github-readme-stats.vercel.app/api?username=chinnam-arjun&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chinnam-arjun&layout=compact&hide_border=true" height="165"/>
 </p>
-
 ---
 
 ## 🔥 Contribution Streak
